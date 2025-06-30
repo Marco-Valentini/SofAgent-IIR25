@@ -1,0 +1,27 @@
+codice_articolo,quantita,prezzo,marca,categoria_prodotto,nome_modello,tipo_prodotto,materiale_struttura,finitura_struttura,materiale_ripiano_o_top,finitura_ripiano_o_top,dimensioni_cm,descrizione_aggiuntiva,codice_stato,codice_articolo_alternativo
+H00801X,1,5210,NATUZZI,"LIBRERIE E SISTEMI",Arch,"Libreria Completa",Metallo,Cromo Nero Lucido,"Legno-Vetro","Specchio Fumé",83X40 H210,"ARCH Libreria Dx L83 Cromo Nero/Vetro Fumé",Y2,DDH00800000001X
+H00802X,1,5210,NATUZZI,"LIBRERIE E SISTEMI",Arch,"Libreria Completa",Metallo,Cromo Nero Lucido,"Legno-Vetro","Specchio Fumé",83X40 H210,"ARCH Libreria Sx L83 Cromo Nero/Vetro Fumé",Y2,DDH00800000002X
+E02701X,1,3970,NATUZZI,"LIBRERIE E SISTEMI",Filrouge,"Libreria Completa","Legno e Metallo","Rovere Fumé/Nero Brunito",Marmo,Volakas,40X90 H142,"FILROUGE LIBRERIA ROVERE 2017/VOLAKAS",Y2,DDE02700000001X
+H189001XNA,1,410,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Montante Verticale","Metallo-Laccato",Cioccolato,,,6X5 H263,"RADICE Montante Verticale Cioccolato H263 cm",Y2,H189001XNA
+H189002XNA,1,390,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Montante Verticale","Metallo-Laccato",Cioccolato,,,6X5 H223,"RADICE Montante Verticale Cioccolato H223 cm",Y2,H189002XNA
+H189003XNA,1,290,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Connettori a Muro (2pz)","Metallo-Laccato",Nero Opaco,,,19X5 H5,"RADICE Kit Connettori a Muro L19 cm",Y2,H189003XNA
+H189004XNA,1,330,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Connettori a Muro (2pz)","Metallo-Laccato",Nero Opaco,,,29X5 H5,"RADICE Kit Connettori a Muro L29 cm",Y2,H189004XNA
+H189005XNA,1,340,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Barra Appendiabiti","Metallo-Laccato",Cioccolato,,,3X63 H6,"RADICE Barra Appendiabiti Orizzontale L63 cm",Y2,H189005XNA
+H189006XNA,1,360,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Barra Appendiabiti","Metallo-Laccato",Cioccolato,,,3X93 H6,"RADICE Barra Appendiabiti Orizzontale L93 cm",Y2,H189006XNA
+H189007XNA,1,250,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Supporto TV","Metallo-Laccato",Nero Opaco,,,3X70 H10,"RADICE Supporti TV L70 cm H10 cm",Y2,H189007XNA
+H189008XNA,1,440,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Mensola","Metallo-Laccato",Cioccolato,Vetro,Vetro Extra Chiaro,33X60 H4,"RADICE Mensola Cioccolato L 60 cm P33 H35cm",Y2,H189008XNA
+H189009XNA,1,480,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Mensola","Metallo-Laccato",Cioccolato,Vetro,Vetro Extra Chiaro,33X90 H4,"RADICE Mensola Cioccolato L 90cm P33 H35cm",Y2,H189009XNA
+H189010XNA,1,1700,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Contenitore Ribalta","Legno-Laccato",Cioccolato,Vetro,Cioccolato,33X60 H30,"RADICE Contenitore Cioccolato L60 P33 H30 cm",Y2,H189010XNA
+H189011XNA,1,1950,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Contenitore Ribalta","Legno-Laccato",Cioccolato,Vetro,Cioccolato,33X90 H30,"RADICE Contenitore Cioccolato L90 P33 H30 cm",Y2,H189011XNA
+H189012XNA,1,1620,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Cassetto","Legno-Laccato",Cioccolato,Vetro,Cioccolato,33X60 H30,"RADICE Cassetto Cioccolato L60 P33 H30 cm",Y2,H189012XNA
+H189013XNA,1,1890,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Cassetto","Legno-Laccato",Cioccolato,Vetro,Cioccolato,33X90 H30,"RADICE Cassetto Cioccolato L90 P33 H30 cm",Y2,H189013XNA
+H189014XNA,1,1230,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Elemento Singolo - Specchio Opzionale","Metallo-Laccato",Cioccolato,,Cioccolato,6X50 H120,"RADICE Specchio Opzionale L50 H120 cm",Y2,H189014XNA
+H189C15XNA,1,7440,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Composizione Suggerita - Notte","Metallo-Laccato",Cioccolato,,,47X184 H264,"RADICE Composizione Notte A L150 H260 cm",Y2,H189C15XNA
+H189C16XNA,1,14560,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Composizione Suggerita - TV","Metallo-Laccato",Cioccolato,,,37X318 H224,"RADICE Composizione TV A L300 H220 cm",Y2,H189C16XNA
+H189C17XNA,1,15080,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Composizione Suggerita - TV","Metallo-Laccato",Cioccolato,,,37X378 H224,"RADICE Composizione TV B L360 H220 cm",Y2,H189C17XNA
+H189C18XNA,1,3300,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Composizione Suggerita - Libreria","Metallo-Laccato",Cioccolato,,,37X95 H224,"RADICE Composizione Libreria A L90 H220 cm",Y2,H189C18XNA
+H189C19XNA,1,4760,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Composizione Suggerita - Libreria","Metallo-Laccato",Cioccolato,,,37X95 H224,"RADICE Composizione Libreria B L90 H220 cm",Y2,H189C19XNA
+H189C20XNA,1,5920,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Composizione Suggerita - Libreria","Metallo-Laccato",Cioccolato,,,37X190 H224,"RADICE Composizione Libreria C L180 H220 cm",Y2,H189C20XNA
+H189C21XNA,1,8840,NATUZZI,"LIBRERIE E SISTEMI",RADICE,"Composizione Suggerita - Libreria","Metallo-Laccato",Cioccolato,,,37X190 H224,"RADICE Composizione Libreria D L180 H220 cm",Y2,H189C21XNA
+H844001XNA,1,4040,NATUZZI,"LIBRERIE E SISTEMI",Tide,"Libreria Completa",Metallo,Oro,Metallo,Oro,46X100 H124,"TIDE Libreria Alta 100x46H124 Oro",Y2,H844001XNA
+H844002XNA,1,2410,NATUZZI,"LIBRERIE E SISTEMI",Tide,"Libreria Completa",Metallo,Oro,Metallo,Oro,46X100 H61,"TIDE Libreria Bassa 100x46H61 Oro",Y2,H844002XNA

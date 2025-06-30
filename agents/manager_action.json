@@ -1,0 +1,7 @@
+{
+    "model_type": "azure-api",
+    "model_name": "gpt-4o",
+    "temperature": 0,
+    "max_tokens": 4500,
+    "json_mode": true
+}

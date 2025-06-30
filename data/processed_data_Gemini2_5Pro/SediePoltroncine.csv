@@ -1,0 +1,140 @@
+codice_articolo,quantita,prezzo,marca,categoria_prodotto,nome_modello,tipo_sedia,materiale_struttura_gambe,finitura_struttura_gambe,materiale_rivestimento_seduta,colore_finitura_rivestimento,dimensioni_cm,descrizione_aggiuntiva,codice_stato,codice_articolo_alternativo
+C013KG0,1,460,NATUZZI,"SEDIE E POLTRONCINE",KIRIS,Senza Braccioli,Pelle,Grigio,Pelle,Grigio,50X50 H92,"KIRIS Sedia 50X50 H92 Grigio",YS,DDC013SCU01100P
+CH010031400,1,1090,NATUZZI,"SEDIE E POLTRONCINE",AMBRA,Con Braccioli,,,Pelle,,67X63 H85,"AMBRA Sedia Con Braccioli Pelle",Y2,CH010031400
+CH01003A000,1,900,NATUZZI,"SEDIE E POLTRONCINE",AMBRA,Con Braccioli,,,Pelle,,67X63 H85,"AMBRA Sedia Con Braccioli Pelle CTA0",Y2,CH01003A000
+CH012311400,1,840,NATUZZI,"SEDIE E POLTRONCINE",AMBRA,Senza Braccioli,,,Pelle,,55X63 H85,"AMBRA Sedia Senza Braccioli Pelle",Y2,CH012311400
+CH01231A000,1,690,NATUZZI,"SEDIE E POLTRONCINE",AMBRA,Senza Braccioli,,,Pelle,,55X63 H85,"AMBRA Sedia Senza Braccioli Pelle CTA0",Y2,CH01231A000
+CH015011400,2,1650,NATUZZI,"SEDIE E POLTRONCINE",AMBRA,Coppia Senza Braccioli,,,Pelle,,55X63 H85,"AMBRA Coppia Sedie Senza Braccioli Pelle",Y2,CH015011400
+CH01501A000,2,1340,NATUZZI,"SEDIE E POLTRONCINE",AMBRA,Coppia Senza Braccioli,,,Pelle,,55X63 H85,"AMBRA Coppia Sedie Senza Braccioli Pelle CTA0",Y2,CH01501A000
+CH240032400,1,1840,NATUZZI,"SEDIE E POLTRONCINE",BEAT,Con Braccioli,Metallo Rivestito,Pelle,Pelle,,65X64 H88,"BEAT Sedia Con Braccioli Pelle",Y2,CH240032400
+CH240033000,1,1960,NATUZZI,"SEDIE E POLTRONCINE",BEAT,Con Braccioli,Metallo Rivestito,Pelle,Pelle,,65X64 H88,"BEAT Sedia Con Braccioli Pelle",Y2,CH240033000
+CH240036000,1,2840,NATUZZI,"SEDIE E POLTRONCINE",BEAT,Con Braccioli,Metallo Rivestito,Pelle,Pelle,,65X64 H88,"BEAT Sedia Con Braccioli Pelle",Y2,CH240036000
+CH240038300,1,1450,NATUZZI,"SEDIE E POLTRONCINE",BEAT,Con Braccioli,Metallo Rivestito,Tessuto,Tessuto,,65X64 H88,"BEAT Sedia Con Braccioli Tessuto",Y2,CH240038300
+CH240039900,1,1650,NATUZZI,"SEDIE E POLTRONCINE",BEAT,Con Braccioli,Metallo Rivestito,Tessuto,Tessuto,,65X64 H88,"BEAT Sedia Con Braccioli Tessuto",Y2,CH240039900
+CH24003A000,1,1630,NATUZZI,"SEDIE E POLTRONCINE",BEAT,Con Braccioli,Metallo Rivestito,Pelle,Pelle,,,"BEAT Sedia Con Braccioli Pelle CTA0",Y2,CH24003A000
+CH155391400,1,1360,NATUZZI,"SEDIE E POLTRONCINE",CLIO,Panca,,,Pelle,,173X68 H80,"CLIO Panca Pelle CAT.15",Y2,CH155391400
+CH155394000,1,1800,NATUZZI,"SEDIE E POLTRONCINE",CLIO,Panca,,,Pelle,,173X68 H80,"CLIO Panca Pelle CAT.40",Y2,CH155394000
+CH155397000,1,940,NATUZZI,"SEDIE E POLTRONCINE",CLIO,Panca,,,Tessuto,,173X68 H80,"CLIO Panca Tessuto CAT.70",Y2,CH155397000
+CH155399900,1,1250,NATUZZI,"SEDIE E POLTRONCINE",CLIO,Panca,,,Tessuto,,173X68 H80,"CLIO Panca Tessuto CAT.99",Y2,CH155399900
+CH220031400,1,1330,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Con Braccioli,Metallo Rivestito,Pelle,Pelle,,60X62 H89,"EDGAR Poltroncina Pelle CAT 15",Y2,CH220031400
+CH220032400,1,1400,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Con Braccioli,Metallo Rivestito,Pelle,Pelle,,60X62 H89,"EDGAR Poltroncina Pelle CAT 24",Y2,CH220032400
+CH220033000,1,1450,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Con Braccioli,Metallo Rivestito,Pelle,Pelle,,60X62 H89,"EDGAR Poltroncina Pelle CAT 30",Y2,CH220033000
+CH220037000,1,1170,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Con Braccioli,Metallo Rivestito,Tessuto,Tessuto,,60X62 H89,"EDGAR Poltroncina Tessuto CAT 70",Y2,CH220037000
+CH220038300,1,1230,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Con Braccioli,Metallo Rivestito,Tessuto,Tessuto,,60X62 H89,"EDGAR Poltroncina Tessuto CAT 83",Y2,CH220038300
+CH220039900,1,1330,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Con Braccioli,Metallo Rivestito,Tessuto,Tessuto,,60X62 H89,"EDGAR Poltroncina Tessuto CAT 99",Y2,CH220039900
+CH220039K00,1,1600,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Con Braccioli,Metallo Rivestito,Tessuto,Tessuto,,60X62 H89,"EDGAR Poltroncina Tessuto CAT 9K",Y2,CH220039K00
+CH222311400,1,1110,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Senza Braccioli,Metallo Rivestito,Pelle,Pelle,,52X62 H89,"EDGAR Sedia Senza Braccioli Pelle CAT 15",Y2,CH222311400
+CH222312400,1,1170,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Senza Braccioli,Metallo Rivestito,Pelle,Pelle,,60X62 H89,"EDGAR Sedia Senza Braccioli Pelle CAT 24",Y2,CH222312400
+CH222313000,1,1210,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Senza Braccioli,Metallo Rivestito,Pelle,Pelle,,52X62 H89,"EDGAR Sedia Senza Braccioli Pelle CAT 30",Y2,CH222313000
+CH222317000,1,1000,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Senza Braccioli,Metallo Rivestito,Tessuto,Tessuto,,52X62 H89,"EDGAR Sedia Senza Braccioli Tessuto CAT 70",Y2,CH222317000
+CH222318300,1,1050,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Senza Braccioli,Metallo Rivestito,Tessuto,Tessuto,,52X62 H89,"EDGAR Sedia Senza Braccioli Tessuto CAT 83",Y2,CH222318300
+CH222319900,1,1130,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Senza Braccioli,Metallo Rivestito,Tessuto,Tessuto,,52X62 H89,"EDGAR Sedia Senza Braccioli Tessuto CAT 99",Y2,CH222319900
+CH222319K00,1,1360,NATUZZI,"SEDIE E POLTRONCINE",EDGAR,Senza Braccioli,Metallo Rivestito,Tessuto,Tessuto,,52X62 H89,"EDGAR Sedia Senza Braccioli Tessuto CAT 9K",Y2,CH222319K00
+C014K50,1,980,NATUZZI,"SEDIE E POLTRONCINE",FRIDA,Senza Braccioli,Pelle,Nero,Pelle,Nero,53X57 H88,"FRIDA Sedia 53X57 H88 Nera",Y2,DDC014SCU0A800P
+C014KK0,1,980,NATUZZI,"SEDIE E POLTRONCINE",FRIDA,Senza Braccioli,Pelle,Tan,Pelle,Tan,53X57 H88,"FRIDA Sedia 53X57 H88 Tan",Y2,DDC014SCU06400P
+C014KM0,1,980,NATUZZI,"SEDIE E POLTRONCINE",FRIDA,Senza Braccioli,Pelle,Caffè,Pelle,Caffè,53X57 H88,"FRIDA Sedia 53X57 H88 Caffè",Y2,DDC014SCU02500P
+C014KT0,1,980,NATUZZI,"SEDIE E POLTRONCINE",FRIDA,Senza Braccioli,Pelle,Tortora,Pelle,Tortora,53X57 H88,"FRIDA Sedia 53X57 H88 Tortora",Y2,DDC014SCU00700P
+C014PEV,1,1930,NATUZZI,"SEDIE E POLTRONCINE",FRIDA,Senza Braccioli,Cuoio Pieno Fiore,Tan,Cuoio Pieno Fiore,Tan,53X57 H88,"FRIDA Sedia 53X57 H88 Cuoio Pieno Fiore Tan",Y2,DDC014SCUX5400P
+C014PMV,1,1930,NATUZZI,"SEDIE E POLTRONCINE",FRIDA,Senza Braccioli,Cuoio Pieno Fiore,Marrone Scuro,Cuoio Pieno Fiore,Marrone Scuro,53X57 H88,"FRIDA Sedia 53X57 H88 Cuoio Pieno Fiore Marrone Scuro",Y2,DDC014SCUX2400P
+CH082311400,1,820,NATUZZI,"SEDIE E POLTRONCINE",HEIDI,Senza Braccioli,Pelle,,Pelle,,52X54 H85,"HEIDI Sedia Senza Braccioli Pelle",Y2,CH082311400
+CH08231A000,1,790,NATUZZI,"SEDIE E POLTRONCINE",HEIDI,Senza Braccioli,Pelle,,Pelle,,52X54 H85,"HEIDI Sedia Senza Braccioli Pelle CTA0",Y2,CH08231A000
+CH100031400,1,1260,NATUZZI,"SEDIE E POLTRONCINE",MAMA,Con Braccioli,,,Pelle,,71X64 H93,"MAMA Sedia Pelle",Y2,CH100031400
+CH100034000,1,1630,NATUZZI,"SEDIE E POLTRONCINE",MAMA,Con Braccioli,,,Pelle,,71X64 H93,"MAMA Sedia Pelle CAT.40",Y2,CH100034000
+CH100037000,1,920,NATUZZI,"SEDIE E POLTRONCINE",MAMA,Con Braccioli,,,Tessuto,,71X64 H93,"MAMA Sedia Tessuto CAT.70",Y2,CH100037000
+CH100038800,1,1110,NATUZZI,"SEDIE E POLTRONCINE",MAMA,Con Braccioli,,,Tessuto,,71X64 H93,"MAMA Sedia Tessuto CAT.88",Y2,CH100038800
+CH100039900,1,1160,NATUZZI,"SEDIE E POLTRONCINE",MAMA,Con Braccioli,,,Tessuto,,71X64 H93,"MAMA Sedia Tessuto CAT.99",Y2,CH100039900
+CH10003A000,1,1200,NATUZZI,"SEDIE E POLTRONCINE",MAMA,Con Braccioli,,,Pelle,,71X64 H93,"MAMA Sedia Pelle CTA0",Y2,CH10003A000
+CH2501214A2,1,1020,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo,Nero,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 15 Gambe Nere",Y2,CH2501214A2
+CH2501214A3,1,1020,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo,Bianco,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 15 Gambe Bianche",Y2,CH2501214A3
+CH2501214A4,1,1320,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo con Ruote,Nero,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 15 Gambe Ruote Nere",Y2,CH2501214A4
+CH2501214A5,1,1320,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo con Ruote,Bianco,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 15 Gambe Ruote Bianche",Y2,CH2501214A5
+CH2501214A8,1,1730,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Legno,Frassino Nero,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 15 Gambe Legno Frassino",Y2,CH2501214A8
+CH2501230A2,1,1050,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo,Nero,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 30 Gambe Nere",Y2,CH2501230A2
+CH2501230A3,1,1050,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo,Bianco,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 30 Gambe Bianche",Y2,CH2501230A3
+CH2501230A4,1,1350,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo con Ruote,Nero,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 30 Gambe Ruote Nere",Y2,CH2501230A4
+CH2501230A5,1,1350,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Metallo con Ruote,Bianco,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 30 Gambe Ruote Bianche",Y2,CH2501230A5
+CH2501230A8,1,1760,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta/Schienale Imbottiti",Gambe Legno,Frassino Nero,Pelle,,62X55 H82,"NANÀ Seduta/Schienale Imb. Pelle CAT 30 Gambe Legno Frassino",Y2,CH2501230A8
+CH2503114A2,1,890,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo,Nero,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 15 Gambe Nere",Y2,CH2503114A2
+CH2503114A3,1,890,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo,Bianco,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 15 Gambe Bianche",Y2,CH2503114A3
+CH2503114A4,1,1200,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo con Ruote,Nero,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 15 Gambe Ruote Nere",Y2,CH2503114A4
+CH2503114A5,1,1200,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo con Ruote,Bianco,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 15 Gambe Ruote Bianche",Y2,CH2503114A5
+CH2503114A8,1,1600,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Legno,Frassino Nero,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 15 Gambe Legno Frassino",Y2,CH2503114A8
+CH2503130A2,1,900,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo,Nero,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 30 Gambe Nere",Y2,CH2503130A2
+CH2503130A3,1,900,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo,Bianco,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 30 Gambe Bianche",Y2,CH2503130A3
+CH2503130A4,1,1210,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo con Ruote,Nero,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 30 Gambe Ruote Nere",Y2,CH2503130A4
+CH2503130A5,1,1210,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Metallo con Ruote,Bianco,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 30 Gambe Ruote Bianche",Y2,CH2503130A5
+CH2503130A8,1,1620,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Seduta Rivestita",Gambe Legno,Frassino Nero,Pelle,,62X53 H82,"NANÀ Seduta Riv. Pelle CAT 30 Gambe Legno Frassino",Y2,CH2503130A8
+CH2523314A2,1,1270,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo,Nero,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 15 Gambe Nere",Y2,CH2523314A2
+CH2523314A3,1,1270,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo,Bianco,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 15 Gambe Bianche",Y2,CH2523314A3
+CH2523314A4,1,1580,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo con Ruote,Nero,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 15 Gambe Ruote Nere",Y2,CH2523314A4
+CH2523314A5,1,1580,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo con Ruote,Bianco,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 15 Gambe Ruote Bianche",Y2,CH2523314A5
+CH2523314A8,1,1910,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Legno,Frassino Nero,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 15 Gambe Legno Frassino",Y2,CH2523314A8
+CH2523330A2,1,1360,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo,Nero,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 30 Gambe Nere",Y2,CH2523330A2
+CH2523330A3,1,1360,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo,Bianco,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 30 Gambe Bianche",Y2,CH2523330A3
+CH2523330A4,1,1660,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo con Ruote,Nero,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 30 Gambe Ruote Nere",Y2,CH2523330A4
+CH2523330A5,1,1660,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Metallo con Ruote,Bianco,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 30 Gambe Ruote Bianche",Y2,CH2523330A5
+CH2523330A8,1,2000,NATUZZI,"SEDIE E POLTRONCINE",NANÀ,"Totalmente Imbottita",Gambe Legno,Frassino Nero,Pelle,,65X55 H82,"NANÀ Totalmente Imb. Pelle CAT 30 Gambe Legno Frassino",Y2,CH2523330A8
+CH260033039,1,1730,NATUZZI,"SEDIE E POLTRONCINE",NARU,Con Braccioli,Pelle,,Legno,Noce Europeo,59X52 H77,"NARU Sedia con Braccioli Pelle CAT.30 Schienale Noce Europeo",Y2,CH260033039
+CH270033039,1,1580,NATUZZI,"SEDIE E POLTRONCINE",NEVA,Con Braccioli,Pelle,,Legno,Noce Europeo,54X54 H79,"NEVA Sedia con Braccioli Pelle CAT.30 Schienale Noce Europeo",Y2,CH270033039
+CH062311400,1,580,NATUZZI,"SEDIE E POLTRONCINE",PI GRECO,Senza Braccioli,,,Pelle,,55X55 H82,"PIGRECO Sedia Senza Braccioli Pelle",Y2,CH062311400
+CH06231A000,1,560,NATUZZI,"SEDIE E POLTRONCINE",PI GRECO,Senza Braccioli,,,Pelle,,55X55 H82,"PIGRECO Sedia Senza Braccioli Pelle CTA0",Y2,CH06231A000
+CH065011400,2,1060,NATUZZI,"SEDIE E POLTRONCINE",PI GRECO,Coppia Senza Braccioli,,,Pelle,,55X55 H82,"PIGRECO Coppia Sedie Senza Braccioli Pelle",Y2,CH065011400
+CH06501A000,2,1020,NATUZZI,"SEDIE E POLTRONCINE",PI GRECO,Coppia Senza Braccioli,,,Pelle,,55X55 H82,"PIGRECO Coppia Sedie Senza Braccioli Pelle CTA0",Y2,CH06501A000
+CH020031400,1,980,NATUZZI,"SEDIE E POLTRONCINE",ROSE,Con Braccioli,,,Pelle,,62X62 H80,"ROSE Sedia Con Braccioli Pelle",Y2,CH020031400
+CH020037000,1,780,NATUZZI,"SEDIE E POLTRONCINE",ROSE,Con Braccioli,,,Tessuto,,,"ROSE Sedia Con Braccioli Tessuto CAT70",Y2,CH020037000
+CH020038800,1,930,NATUZZI,"SEDIE E POLTRONCINE",ROSE,Con Braccioli,,,Tessuto,,62X62 H80,"ROSE Sedia Con Braccioli Tessuto",Y2,CH020038800
+CH020039900,1,960,NATUZZI,"SEDIE E POLTRONCINE",ROSE,Con Braccioli,,,Tessuto,,62X62 H80,"ROSE Sedia Con Braccioli Tessuto",Y2,CH020039900
+CH02003A000,1,890,NATUZZI,"SEDIE E POLTRONCINE",ROSE,Con Braccioli,,,Pelle,,62X62 H80,"ROSE Sedia Con Braccioli Pelle CTA0",Y2,CH02003A000
+CH052311400,1,490,NATUZZI,"SEDIE E POLTRONCINE",SIGMA,Senza Braccioli,,,Pelle,,48X57 H82,"SIGMA Sedia Senza Braccioli Pelle",Y2,CH052311400
+CH052319900,1,510,NATUZZI,"SEDIE E POLTRONCINE",SIGMA,Senza Braccioli,,,Tessuto,,48X57 H82,"SIGMA Sedia Senza Braccioli Tessuto",Y2,CH052319900
+CH05231A000,1,470,NATUZZI,"SEDIE E POLTRONCINE",SIGMA,Senza Braccioli,,,Pelle,,48X57 H82,"SIGMA Sedia Senza Braccioli Pelle CTA0",Y2,CH05231A000
+CH055011400,2,860,NATUZZI,"SEDIE E POLTRONCINE",SIGMA,Coppia Senza Braccioli,,,Pelle,,48X57 H82,"SIGMA Coppia Sedie Senza Braccioli Pelle",Y2,CH055011400
+CH055019900,2,850,NATUZZI,"SEDIE E POLTRONCINE",SIGMA,Coppia Senza Braccioli,,,Tessuto,,48X57 H82,"SIGMA Coppia Sedie Senza Braccioli Tessuto",Y2,CH055019900
+CH05501A000,2,820,NATUZZI,"SEDIE E POLTRONCINE",SIGMA,Coppia Senza Braccioli,,,Pelle,,48X57 H82,"SIGMA Coppia Sedie Senza Braccioli Pelle CTA0",Y2,CH05501A000
+CH120031432,1,1210,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Con Braccioli,Legno,Rovere Fumé,Pelle,,62X60 H94,"SOVRANA Sedia Pelle Gambe Rovere Fumé",Y2,CH120031432
+CH120031439,1,1310,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Con Braccioli,Legno,Noce,Pelle,,62X60 H94,"SOVRANA Sedia Pelle Gambe Noce Europeo",Y2,CH120031439
+CH12003A032,1,1180,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Con Braccioli,Legno,Rovere Fumé,Pelle,,62X60 H94,"SOVRANA Sedia Pelle Gambe Rovere Fumé CTA0",Y2,CH12003A032
+CH12003A039,1,1280,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Con Braccioli,Legno,Noce,Pelle,,62X60 H94,"SOVRANA Sedia Pelle Gambe Noce Europeo CTA0",Y2,CH12003A039
+CH125011432,2,1970,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Coppia Senza Braccioli,Legno,Rovere Fumé,Pelle,,48X60 H94,"SOVRANA Coppia Sedie S/B Pelle Gambe Rovere Fumé",Y2,CH125011432
+CH125011439,2,2160,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Coppia Senza Braccioli,Legno,Noce,Pelle,,48X60 H94,"SOVRANA Coppia Sedie S/B Pelle Gambe Noce Europeo",Y2,CH125011439
+CH12501A032,2,1930,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Coppia Senza Braccioli,Legno,Rovere Fumé,Pelle,,48X60 H94,"SOVRANA Coppia Sedie S/B Pelle Gambe Rovere Fumé CTA0",Y2,CH12501A032
+CH12501A039,2,2120,NATUZZI,"SEDIE E POLTRONCINE",SOVRANA,Coppia Senza Braccioli,Legno,Noce,Pelle,,48X60 H94,"SOVRANA Coppia Sedie S/B Pelle Gambe Noce Europeo CTA0",Y2,CH12501A039
+CH190661420,1,2620,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Eucalipto,Pelle,,61X61 H79,"VALLE Sedia Pelle CAT 15 Gambe Eucalipto",Y2,CH190661420
+CH190661444,1,2050,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Frassino Tabacco,Pelle,,61X61 H79,"VALLE Sedia Pelle CAT 15 Gambe Frassino Tabacco",Y2,CH190661444
+CH190662420,1,2670,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Eucalipto,Pelle,,61X61 H79,"VALLE Sedia Pelle CAT 24 Gambe Eucalipto",Y2,CH190662420
+CH190662444,1,2090,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Frassino Tabacco,Pelle,,61X61 H79,"VALLE Sedia Pelle CAT 24 Gambe Frassino Tabacco",Y2,CH190662444
+CH190663020,1,2760,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Eucalipto,Pelle,,61X61 H79,"VALLE Sedia Pelle CAT 30 Gambe Eucalipto",Y2,CH190663020
+CH190663044,1,2190,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Frassino Tabacco,Pelle,,61X61 H79,"VALLE Sedia Pelle CAT 30 Gambe Frassino Tabacco",Y2,CH190663044
+CH190668620,1,2560,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Eucalipto,Tessuto,,61X61 H79,"VALLE Sedia Tessuto CAT 86 Gambe Eucalipto",Y2,CH190668620
+CH190668644,1,2000,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Frassino Tabacco,Tessuto,,61X61 H79,"VALLE Sedia Tessuto CAT 86 Gambe Frassino Tabacco",Y2,CH190668644
+CH190668820,1,2590,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Eucalipto,Tessuto,,61X61 H79,"VALLE Sedia Tessuto CAT 88 Gambe Eucalipto",Y2,CH190668820
+CH190668844,1,2020,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Frassino Tabacco,Tessuto,,61X61 H79,"VALLE Sedia Tessuto CAT 88 Gambe Frassino Tabacco",Y2,CH190668844
+CH190669920,1,2590,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Eucalipto,Tessuto,,61X61 H79,"VALLE Sedia Tessuto CAT 99 Gambe Eucalipto",Y2,CH190669920
+CH190669944,1,2020,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli,Legno,Frassino Tabacco,Tessuto,,61X61 H79,"VALLE Sedia Tessuto CAT 99 Gambe Frassino Tabacco",Y2,CH190669944
+CH193661420,1,2650,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Eucalipto,Pelle,,61X61 H85,"VALLE Sedia (2° opz.) Pelle CAT 15 Gambe Eucalipto",Y2,CH193661420
+CH193661444,1,2080,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Frassino Tabacco,Pelle,,61X61 H85,"VALLE Sedia (2° opz.) Pelle CAT 15 Gambe Frassino Tabacco",Y2,CH193661444
+CH193662420,1,2700,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Eucalipto,Pelle,,61X61 H85,"VALLE Sedia (2° opz.) Pelle CAT 24 Gambe Eucalipto",Y2,CH193662420
+CH193662444,1,2120,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Frassino Tabacco,Pelle,,61X61 H85,"VALLE Sedia (2° opz.) Pelle CAT 24 Gambe Frassino Tabacco",Y2,CH193662444
+CH193663020,1,2780,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Eucalipto,Pelle,,61X61 H85,"VALLE Sedia (2° opz.) Pelle CAT 30 Gambe Eucalipto",Y2,CH193663020
+CH193663044,1,2210,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Frassino Tabacco,Pelle,,61X61 H85,"VALLE Sedia (2° opz.) Pelle CAT 30 Gambe Frassino Tabacco",Y2,CH193663044
+CH193668620,1,2600,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Eucalipto,Tessuto,,61X61 H85,"VALLE Sedia (2° opz.) Tessuto CAT 86 Gambe Eucalipto",Y2,CH193668620
+CH193668644,1,2030,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Frassino Tabacco,Tessuto,,61X61 H85,"VALLE Sedia (2° opz.) Tessuto CAT 86 Gambe Frassino Tabacco",Y2,CH193668644
+CH193668820,1,2630,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Eucalipto,Tessuto,,61X61 H85,"VALLE Sedia (2° opz.) Tessuto CAT 88 Gambe Eucalipto",Y2,CH193668820
+CH193668844,1,2050,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Frassino Tabacco,Tessuto,,61X61 H85,"VALLE Sedia (2° opz.) Tessuto CAT 88 Gambe Frassino Tabacco",Y2,CH193668844
+CH193669920,1,2630,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Eucalipto,Tessuto,,61X61 H85,"VALLE Sedia (2° opz.) Tessuto CAT 99 Gambe Eucalipto",Y2,CH193669920
+CH193669944,1,2050,NATUZZI,"SEDIE E POLTRONCINE",VALLE,Con Braccioli (2° opz.),Legno,Frassino Tabacco,Tessuto,,61X61 H85,"VALLE Sedia (2° opz.) Tessuto CAT 99 Gambe Frassino Tabacco",Y2,CH193669944
+CH042311410,1,710,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Grigio,Pelle,,48X60 H89,"VESTA Sedia S/B Pelle Schienale Frassino Grigio",Y2,CH042311410
+CH042311412,1,710,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Affumicato,Pelle,,48X60 H89,"VESTA Sedia S/B Pelle Schienale Frassino Affumicato",Y2,CH042311412
+CH042311444,1,710,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Olmo Tabacco,Pelle,,48X60 H89,"VESTA Sedia S/B Pelle Schienale Olmo Tabacco",Y2,CH042311444
+CH042317010,1,640,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Grigio,Tessuto,,48X60 H89,"VESTA Sedia S/B Tessuto Schienale Frassino Grigio",Y2,CH042317010
+CH042317012,1,640,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Affumicato,Tessuto,,48X60 H89,"VESTA Sedia S/B Tessuto Schienale Frassino Affumicato",Y2,CH042317012
+CH042317044,1,640,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Olmo Tabacco,Tessuto,,48X60 H89,"VESTA Sedia S/B Tessuto Schienale Olmo Tabacco",Y2,CH042317044
+CH042319910,1,680,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Grigio,Tessuto,,48X60 H89,"VESTA Sedia S/B Tessuto Schienale Frassino Grigio",Y2,CH042319910
+CH042319912,1,680,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Affumicato,Tessuto,,48X60 H89,"VESTA Sedia S/B Tessuto Schienale Frassino Affumicato",Y2,CH042319912
+CH042319944,1,680,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Olmo Tabacco,Tessuto,,48X60 H89,"VESTA Sedia S/B Tessuto Schienale Olmo Tabacco",Y2,CH042319944
+CH04231A010,1,700,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Grigio,Pelle,,48X60 H89,"VESTA Sedia S/B Pelle Schienale Frassino Grigio CTA0",Y2,CH04231A010
+CH04231A012,1,700,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Frassino Affumicato,Pelle,,48X60 H89,"VESTA Sedia S/B Pelle Schienale Frassino Affumicato CTA0",Y2,CH04231A012
+CH04231A044,1,700,NATUZZI,"SEDIE E POLTRONCINE",VESTA,Senza Braccioli,Legno,Olmo Tabacco,Pelle,,48X60 H89,"VESTA Sedia S/B Pelle Schienale Olmo Tabacco CTA0",Y2,CH04231A044
+CH210661488,1,1540,NATUZZI,"SEDIE E POLTRONCINE",VOYAGE,Con Braccioli Girevole,Metallo,Oro,Pelle,,64X53 H71,"VOYAGE Poltroncina Girevole Pelle CAT 15 Base Oro",Y2,CH210661488
+CH210663088,1,1640,NATUZZI,"SEDIE E POLTRONCINE",VOYAGE,Con Braccioli Girevole,Metallo,Oro,Pelle,,64X53 H71,"VOYAGE Poltroncina Girevole Pelle CAT 30 Base Oro",Y2,CH210663088
+CH210669988,1,1540,NATUZZI,"SEDIE E POLTRONCINE",VOYAGE,Con Braccioli Girevole,Metallo,Oro,Tessuto,,64X53 H71,"VOYAGE Poltroncina Girevole Tessuto CAT 99 Base Oro",Y2,CH210669988

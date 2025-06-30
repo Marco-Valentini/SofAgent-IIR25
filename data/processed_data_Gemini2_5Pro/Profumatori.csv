@@ -1,0 +1,20 @@
+codice_articolo,quantita,prezzo,marca,categoria_prodotto,nome_linea_o_fragranza,tipo_prodotto,materiale_contenitore,colore_contenitore,materiale_accessori,fragranza,dimensioni_contenitore_cm,descrizione_aggiuntiva,codice_stato,codice_articolo_alternativo
+O956002XNA,1,50,NATUZZI,"PROFUMATORI PER AMBIENTE","MOSTO DI FICHI","Diffusore a Bastoncini 100ml",Vetro,Trasparente,Legno,"Rosso",11X11 H13,"MOSTO DI FICHI - DIFFUSORE 100ml",Y6,O956002XNA
+A22201X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Azzurro Chiaro,,Bamboo,15.5X15.5 H20.5,"TRULLINI Candela BAMBOO/AZZURRO CHIARO",Y2,DDO22200000001X
+A22202X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Blu,,Fresia,15.5X15.5 H21,"TRULLINI Candela FRESIA/BLU",Y2,DDO22200000002X
+A22203X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Grigio,,"Chinotto & Pepe",15.5X15.5 H22,"TRULLINI Candela CHINOTTO PEPE/GRIGIO",Y2,DDO22200000003X
+A22204X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Marrone,,Terrae,15.5X15.5 H20,"TRULLINI Candela TERRAE/MARRONE",Y2,DDO22200000004X
+A22205X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Verde,,"Mandarino & Vaniglia",15.5X15.5 H20,"TRULLINI Candela MANDARVANIG/VERDE",Y2,DDO22200000005X
+A22206X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Nero,,"Chinotto & Pepe",15.5X15.5 H22,"TRULLINI Candela CHINOTTO PEPE/NERO",Y2,DDO22200000006X
+A22207X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Bordeaux,,"Mandarino & Vaniglia",15.5X15.5 H20,"TRULLINI Candela MANDARVANIG/BORDEAUX",Y2,DDO22200000007X
+A22208X,1,380,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Neutro,,Bamboo,15.5X15.5 H20.5,"TRULLINI Candela BAMBOO/NEUTRO",Y2,DDO22200000008X
+A22209X,1,460,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Candela Profumata 320gr",Ceramica,Oro,,Terrae,15.5X15.5 H20,"TRULLINI Candela TERRAE/ORO",Y2,DDO22200000009X
+A22601X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Azzurro Chiaro,,Bamboo,14X14 H22.5,"TRULLINI Profumatore BAMBOO/AZZURRO CHIARO",Y2,DDO22600000001X
+A22602X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Blu,,Fresia,14X14 H23,"TRULLINI Profumatore FRESIA/BLU",Y2,DDO22600000002X
+A22603X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Grigio,,"Chinotto & Pepe",14X14 H25,"TRULLINI Profumatore CHINOTTO PEPE/GRIGIO",Y2,DDO22600000003X
+A22604X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Marrone,,Terrae,14X14 H22.5,"TRULLINI Profumatore TERRAE/MARRONE",Y2,DDO22600000004X
+A22605X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Verde,,"Mandarino & Vaniglia",14X14 H22,"TRULLINI Profumatore MANDARVANIG/VERDE",Y2,DDO22600000005X
+A22612X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Nero,,"Chinotto & Pepe",14X14 H25,"TRULLINI Profumatore CHINOTTO PEPE/NERO",Y2,DDO22600000012X
+A22613X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Bordeaux,,"Mandarino & Vaniglia",14X14 H22,"TRULLINI Profumatore MANDARVANIG/BORDEAUX",Y2,DDO22600000013X
+A22614X,1,400,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Neutro,,Bamboo,14X14 H22.5,"TRULLINI Profumatore BAMBOO/NEUTRO",Y2,DDO22600000014X
+A22615X,1,490,NATUZZI,"PROFUMATORI PER AMBIENTE",Trullini,"Diffusore a Bastoncini 100ml",Ceramica,Oro,,Terrae,14X14 H22.5,"TRULLINI Profumatore TERRAE/ORO",Y2,DDO22600000015X

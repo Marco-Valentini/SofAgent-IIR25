@@ -1,0 +1,61 @@
+,ID_abbinamento,Colore_abbinamento,Tipo,ID,Nome,Rivestimento
+0,1,blue,sofa,2954,Iago,SANBABILA
+1,1,blue,sofa,2954,Iago,STROMBOLI
+2,1,blue,sofa,3102,Couture,LAGUNA
+3,1,blue,sofa,2715,Cammeo,LAGUNA
+4,1,blue,furn,E02809X,Estro,Light Blue
+5,1,blue,furn,Q083001XNA,Mindful,Matt Chocolate
+6,1,blue,furn,Q083002XNA,Mindful,Matt Chocolate
+7,1,blue,furn,L514020,Colosseo,Black Chrome
+8,1,blue,furn,V843020XNA,Sophia B,Moonlit Ocean
+9,2,warm neutral 1,sofa,2954,Iago,STATUS
+10,2,warm neutral 1,sofa,2954,Iago ,SOFTECH
+11,2,warm neutral 1,sofa,3102,Couture,MONTEMARIO
+12,2,warm neutral 1,furn,Q092007XNA,Square,Graphite Oak
+13,2,warm neutral 1,furn,T156XZS,Herman,Calacatta Gold
+14,2,warm neutral 1,furn,R85905X,Seti,Silver
+15,3,warm neutral 2,sofa,2954,Iago,LE MANS
+16,3,warm neutral 2,sofa,2954,Iago,BORGOSPESSO
+17,3,warm neutral 2,sofa,3102,Couture,PIAZZADISPAGNA
+18,3,warm neutral 2,sofa,2715,Cammeo,PIAZZADISPAGNA
+19,3,warm neutral 2,furn,Q092004XNA,Square,Ashwood Tabacco
+20,3,warm neutral 2,furn,T156XZS,Herman,Calacatta Gold
+21,3,warm neutral 2,furn,V843029XNA,Sophia B,Beige
+22,4,green,sofa,2957,Philo,STATUS
+23,4,green,sofa,3039,Melpot,CIRCOMASSIMO
+24,4,green,furn,Q092007XNA,Square,Graphite Oak
+25,4,green,furn,E04501X,Cava,Smoked Glass
+26,4,green,furn,W015005,Ido,Radica Frise
+27,4,green,furn,V980003XNA,Memoria,Grey-Green
+28,5,cold neutral 1,sofa,2957,Philo,AVENTINO
+29,5,cold neutral 1,sofa,2957,Philo,STATUS
+30,5,cold neutral 1,sofa,3039,Melpot,RIZZOLI
+31,5,cold neutral 1,furn,Q092007XNA,Square,Graphite Oak
+32,5,cold neutral 1,furn,T140V00,Labirinto,Smoked Glass
+33,5,cold neutral 1,furn,T15701X,Ido,Invisible Grey Marble
+34,5,cold neutral 1,furn,L51402,Colosseo,Black Chrome
+35,5,cold neutral 1,furn,V843022XNA,Sophia B,Antartica
+36,6,cold neutral 2,sofa,2957,Philo,STATUS
+37,6,cold neutral 2,sofa,3098,Lave,PIAZZADISPAGNA
+38,6,cold neutral 2,sofa,3039,Melpot,PIAZZADISPAGNA
+39,6,cold neutral 2,furn,Q092007XNA,Square,Graphite Oak
+40,6,cold neutral 2,furn,T140V00,Labirinto,Smoked Glass
+41,6,cold neutral 2,furn,V843022XNA,Sophia B,Antartica
+42,7,blue,sofa,3273,Wellbe,BOTTEGHE
+43,7,blue,sofa,3273,Wellbe,LE MANS
+44,7,blue,sofa,2847,Viaggio,RIZZOLI
+45,7,blue,sofa,2717,Bis,BOTTEGHE
+46,7,blue,furn,Q092003XNA,Square,Smoked Oak
+47,7,blue,furn,V843022XNA,Sophia B,Antartica
+48,8,warm neutral,sofa,3273,Wellbe,PIPING LE MANS
+49,8,warm neutral,sofa,3273,Wellbe,BOTTEGHE
+50,8,warm neutral,sofa,3273,Wellbe,LE MANS
+51,8,warm neutral,furn,Q092004XNA,Square,Tobacco Ashwood
+52,8,warm neutral,furn,V843012XNA,Sophia B,Walnut
+53,9,earth tone,sofa,3273,Wellbe,STATUS
+54,9,earth tone,sofa,3273,Wellbe,SETTECOLLI
+55,9,earth tone,sofa,3273,Wellbe,AVENTINO
+56,9,earth tone,sofa,3273,Wellbe,LE MANS
+57,9,earth tone,furn,Q092004XNA,Square,Tobacco Ashwood
+58,9,earth tone,furn,E04415X,Campus,Gold Calacatta Marble
+59,9,earth tone,furn,R85906X,Seti,Mink

@@ -1,0 +1,32 @@
+codice_articolo,quantita,prezzo,marca,categoria_prodotto,nome_modello,tipo_comodino,materiale_struttura,finitura_struttura,materiale_piano,finitura_piano,dimensioni_cm,descrizione_aggiuntiva,codice_stato,codice_articolo_alternativo
+B01401X,1,2030,NATUZZI,COMODINI,CALA,Comodino,Legno-Pelle,Marrone Scuro,Vetro,Cioccolato,57X49 H43,"CALA Comodino Testa di Moro/Cioccolato",Y2,DDN01400000001X
+B01402X,1,2030,NATUZZI,COMODINI,CALA,Comodino,Legno-Pelle,Marrone Scuro,Vetro,Celeste,57X49 H43,"CALA Comodino Testa di Moro/Celeste",Y2,DDN01400000002X
+N74403X,1,2950,NATUZZI,COMODINI,Campus,Comodino,Legno Laccato,Laccato Lucido Cotto,"Metallo/Legno","Cromo Nero Lucido - Legno Eucalipto",42X47 H52,"CAMPUS Comodino 47x42 H52 Laccato Lucido Cotto",Y2,DDN74400000003X
+N74404X,1,3130,NATUZZI,COMODINI,Campus,Comodino,"Legno e Metallo","Cromo Nero Lucido - Legno Eucalipto",,,41X70 H45,"CAMPUS Comodino 70X41H45 Eucalipto",Y2,DDN74400000004X
+N74405X,1,3500,NATUZZI,COMODINI,Campus,Comodino,"Legno e Metallo","Champagne Lucido/Legno Frassino Tabacco",Legno,"Legno Frassino/Tabacco/Champagne",41X70 H45,"CAMPUS Comodino 70X41H45 Legno Frassino Tabacco",Y0,DDN74400000005X
+N74406X,1,3290,NATUZZI,COMODINI,Campus,Comodino,"Legno e Metallo","Champagne Lucido/Legno Frassino Tabacco",Legno Laccato,"Deserto Lucido",42X47 H52,"CAMPUS Comodino 47x42 H52 Laccato Lucido Deserto",Y0,DDN74400000006X
+B005LMX,1,980,NATUZZI,COMODINI,EUCLIDE,Comodino,Legno Laccato,Caffè Opaco,Metallo,Caffè Opaco,60X50 H40,"EUCLIDE Comodino Caffè-Caffè",Y2,DDN005DLGM24240
+B01001X,1,1190,NATUZZI,COMODINI,FENICE,Comodino Destro,Legno,Noce 2017,Legno,Noce 2017,60X50 H53,"FENICE COMODINO DX NOCE 2017",Y2,DDN01000000001X
+B01002X,1,1190,NATUZZI,COMODINI,FENICE,Comodino Destro,Legno,"Rovere Fumé Termocotto",Legno,"Rovere Fumé Termocotto",60X50 H53,"FENICE COMODINO DX ROVERE 2017",Y2,DDN01000000002X
+B01005X,1,1190,NATUZZI,COMODINI,FENICE,Comodino Sinistro,Legno,Noce 2017,Legno,Noce 2017,60X50 H53,"FENICE Comodino SX Noce 2017",Y2,DDN01000000005X
+B01006X,1,1190,NATUZZI,COMODINI,FENICE,Comodino Sinistro,Legno,"Rovere Fumé Termocotto",Legno,"Rovere Fumé Termocotto",60X50 H53,"FENICE Comodino SX Rovere 2017",Y2,DDN01000000006X
+B01007X,1,1320,NATUZZI,COMODINI,FENICE,Comodino Destro,Legno Laccato,Gesso Bianco,Legno Laccato,Gesso Bianco,60X50 H53,"FENICE Comodino DX 60x50H53 Gesso Bianco",Y2,DDN01000000007X
+B01008X,1,1320,NATUZZI,COMODINI,FENICE,Comodino Sinistro,Legno Laccato,Gesso Bianco,Legno Laccato,Gesso Bianco,60X50 H53,"FENICE Comodino SX 60x50H53 Gesso Bianco",Y2,DDN01000000008X
+B01009X,1,1320,NATUZZI,COMODINI,FENICE,Comodino Destro,Legno Laccato,Visone,Legno Laccato,Visone,60X50 H53,"FENICE Comodino DX 60x50H53 Visone",Y2,DDN01000000009X
+B01010X,1,1320,NATUZZI,COMODINI,FENICE,Comodino Sinistro,Legno Laccato,Visone,Legno Laccato,Visone,60X50 H53,"FENICE Comodino SX 60x50H53 Visone",Y2,DDN01000000010X
+B002LBD,1,720,NATUZZI,COMODINI,MONDRIAN,Comodino Sinistro,Legno Laccato,Blu Opaco,Metallo,Nickel,60X50 H40,"MONDRIAN Comodino SX 60X50 H40 BLU-NICKEL",Y2,DDN002DLGM60NI0
+B002LGD,1,720,NATUZZI,COMODINI,MONDRIAN,Comodino Sinistro,Legno Laccato,Grigio Opaco,Metallo,Nickel,60X50 H40,"MONDRIAN Comodino SX 60X50 H40 GRIGIO-NICKEL",Y2,DDN002DLGM63NI0
+B002LND,1,1040,NATUZZI,COMODINI,MONDRIAN,Comodino Destro,Legno,Noce,Metallo,Caffè Opaco,60X50 H40,"MONDRIAN Comodino DX 60X50H40 CAFFÈ OPACO-NOCE",Y2,DDN002DLGM2404V
+B002LWD,1,720,NATUZZI,COMODINI,MONDRIAN,Comodino Sinistro,Legno Laccato,Bianco Opaco,Metallo,Nickel,60X50 H40,"MONDRIAN Comodino SX 60X50 H40 BIANCO-NICKEL",Y2,DDN002DLGM52NI0
+B002VBD,1,720,NATUZZI,COMODINI,MONDRIAN,Comodino Destro,Legno Laccato,Blu Opaco,Metallo,Nickel,60X50 H40,"MONDRIAN Comodino DX 60X50 H40 BLU-NICKEL",Y2,DDN002DLGM60NIV
+B002VGD,1,720,NATUZZI,COMODINI,MONDRIAN,Comodino Destro,Legno Laccato,Grigio Opaco,Metallo,Nickel,60X50 H40,"MONDRIAN Comodino DX 60X50 H40 GRIGIO-NICKEL",Y2,DDN002DLGM63NIV
+B002VND,1,1040,NATUZZI,COMODINI,MONDRIAN,Comodino Sinistro,Legno,Noce,Metallo,Caffè Opaco,60X50 H40,"MONDRIAN Comodino SX 60X50H40 CAFFÈ OPACO-NOCE",Y2,DDN002DLGM24040
+B002VWD,1,720,NATUZZI,COMODINI,MONDRIAN,Comodino Destro,Legno Laccato,Bianco Opaco,Metallo,Nickel,60X50 H40,"MONDRIAN Comodino DX 60X50 H40 BIANCO-NICKEL",Y2,DDN002DLGM52NIV
+B004LR0,1,1160,NATUZZI,COMODINI,MUNARI,Comodino Destro,Legno,"Rovere Fumé",Legno,"Rovere Fumé",65X45 H41,"MUNARI Comodino DX 65X45 H41 ROVERE FUMÉ",Y2,DDN004DLGV1200V
+B004LRY,1,1160,NATUZZI,COMODINI,MUNARI,Comodino Sinistro,Legno,"Rovere Fumé",Legno,"Rovere Fumé",65X45 H41,"MUNARI Comodino SX 65X45 H41 ROVERE FUMÉ",Y2,DDN004DLGV12000
+B004LV0,1,1720,NATUZZI,COMODINI,MUNARI,Comodino Destro,Legno,"Rovere Fumé",Marmo,"Oro Calacatta",65X45 H41,"MUNARI Comodino DX 65X45H41 ROVERE FUMÉ-CALACATTA ORO",Y2,DDN004DLGV12ORV
+B004LVV,1,1720,NATUZZI,COMODINI,MUNARI,Comodino Sinistro,Legno,"Rovere Fumé",Marmo,"Oro Calacatta",65X45 H41,"MUNARI Comodino SX 65X45H41 ROVERE FUMÉ-CALACATTA ORO",Y2,DDN004DLGV12OR0
+B00702X,1,1790,NATUZZI,COMODINI,SVEVO,Comodino,"Legno-Vetro",Rovere,"Legno e Metallo",Caffè,48X78 H50,"SVEVO COMODINO ROVERE 2017/CAFFÈ",Y2,DDN00700000002X
+B00903X,1,2130,NATUZZI,COMODINI,VENERE,Comodino,Metallo,Ottone,Legno Laccato,"Giada Lucido",50X50 H56,"VENERE COMODINO GIADA LUCIDO/OTTONE",Y2,DDN00900000003X
+B00904X,1,2130,NATUZZI,COMODINI,VENERE,Comodino,Metallo,Cromo Nero,Legno Laccato,"Gesso Bianco Lucido",50X50 H56,"VENERE COMODINO BIANCO GESSO LUCIDO/CROMO NERO LUCIDO",Y2,DDN00900000004X
+B00906X,1,2000,NATUZZI,COMODINI,VENERE,Comodino,Metallo,Ottone,Legno,"Rovere Fumé Termocotto",50X50 H56,"VENERE Comodino D50 Rovere 2017/Ottone",Y2,DDN00900000006X

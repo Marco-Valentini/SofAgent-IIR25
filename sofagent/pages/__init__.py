@@ -1,0 +1,1 @@
+from .sofagent_ui import main_chat_interface as demo

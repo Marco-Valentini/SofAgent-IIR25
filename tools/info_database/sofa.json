@@ -1,0 +1,5 @@
+{
+    "sofa_info": "data/processed_data_Gemini2_5Pro/NI_catalog_gemini2.5pro_extended.csv",
+    "price_info": "data/extracted_data_from_matrices/PrezziDivani.csv",
+    "price_seats_info": "data/passport_data/ConfigurazioniPredefiniteDivani_ConPrezziESedute.csv"
+}
