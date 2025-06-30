@@ -1,0 +1,7 @@
+{
+    "match_info": "data/extracted_data_from_matrices/Abbinamenti.csv",
+    "sofa_info": "data/processed_data_Gemini2_5Pro/NI_catalog_gemini2.5pro_extended.csv",
+    "furn_info": "data/extracted_data_from_matrices/FurnitureCatalogue.csv",
+    "layouts_info": "data/passport_data/Layouts.csv",
+    "moodboards_info": "data/passport_data/Moodboards.csv"
+}

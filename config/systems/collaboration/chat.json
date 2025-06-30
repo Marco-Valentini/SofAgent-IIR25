@@ -1,0 +1,34 @@
+{
+    "supported_tasks": [
+        "chat"
+    ],
+    "agents": {
+        "Manager": {
+            "action_config_path": "config/agents/manager_action.json",
+            "thought_config_path": "config/agents/manager_thought.json"
+        },
+        "FurnAnalyzer": {
+            "config_path": "config/agents/furn_analyzer.json",
+            "prompt_config": "config/prompts/agent_prompt/furn_analyzer.json"
+        },
+        "SofaAnalyzer": {
+            "config_path": "config/agents/sofa_analyzer.json",
+            "prompt_config": "config/prompts/agent_prompt/sofa_analyzer.json"
+        },
+        "FurnSearcher": {
+            "config_path": "config/agents/furn_searcher.json",
+            "prompt_config": "config/prompts/agent_prompt/furn_searcher.json"
+        },
+        "SofaSearcher": {
+            "config_path": "config/agents/sofa_searcher.json",
+            "prompt_config": "config/prompts/agent_prompt/sofa_searcher.json"
+        },
+        "MatchExpert": {
+            "config_path": "config/agents/match_expert.json",
+            "prompt_config": "config/prompts/agent_prompt/match_expert.json"
+        }
+    },
+    "agent_prompt": "config/prompts/manager_prompt/chat.json",
+    "data_prompt": "config/prompts/data_prompt/{task}.json",
+    "max_step": 10
+}
