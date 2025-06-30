@@ -1,6 +1,0 @@
-{
-    "prompt_name": {
-        "type": "(optional) raw/template",
-        "content": "template content/raw string content"
-    }
-}
