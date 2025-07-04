@@ -3,6 +3,10 @@ Repository containing the code of SofAgent, the Multi-Agent System realized in c
 
 SofAgent is an innovative software solution, developed as a Proof of Concept, that employs Artificial Intelligence and advanced Large Language Models (LLMs) to revolutionize the shopping experience for customers of a furniture company. This virtual assistant is designed to understand customer needs and intuitively and efficiently guide them through the company's extensive catalog of sofas and furnishing accessories.
 
+<img width="1216" alt="image" src="https://github.com/user-attachments/assets/7b21ad95-d715-46b1-b442-2305a363c467" />
+
+
+
 ## Environment Installation and Setup
 
 To run SofAgent, follow the steps below:
